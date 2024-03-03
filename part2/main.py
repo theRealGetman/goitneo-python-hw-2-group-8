@@ -1,4 +1,4 @@
-from models import *
+from src.models import *
 
 # Створення нової адресної книги
 book = AddressBook()
